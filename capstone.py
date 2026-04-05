@@ -71,3 +71,4 @@ print(f"Test Accuracy: {accuracy:.2f}%")
 
 torch.save(model.state_dict(), "mnist_model.pth")
 print("Model saved successfully.")
+#abababb
